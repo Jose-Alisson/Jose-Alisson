@@ -18,7 +18,7 @@ Apaixonado por tecnologia, arquitetura limpa e soluções bem feitas.
 
 ### 🚀 Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,hibernate" />
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,node" />
 </p>
 
 ### 🗄️ Bancos de Dados
