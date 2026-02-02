@@ -42,7 +42,7 @@ Apaixonado por tecnologia, arquitetura limpa e soluções bem feitas.
 
 ✨ APIs REST bem estruturadas  
 ✨ WebSocket (STOMP) e tempo real  
-✨ Segurança e autenticação
+✨ Segurança e autenticação  
 ✨ Arquitetura de Sistemas Distribuídos
 
 ---
