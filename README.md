@@ -11,7 +11,7 @@ Apaixonado por tecnologia, arquitetura limpa e soluções bem feitas.
 
 ## 🧠 Sobre mim
 
-- 💻 Backend com foco em **APIs REST e WebSockets**
+- 💻 Backend com foco em **APIs REST e RESTFul**
 ---
 
 ## 🛠️ Skills & Tecnologias
@@ -41,7 +41,6 @@ Apaixonado por tecnologia, arquitetura limpa e soluções bem feitas.
 ## 📌 O que você encontra aqui
 
 ✨ APIs REST bem estruturadas  
-✨ WebSocket (STOMP) e tempo real  
 ✨ Segurança e autenticação  
 ✨ Arquitetura de Sistemas Distribuídos
 
